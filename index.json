@@ -111,7 +111,7 @@
       "id": "sculptbase",
       "name": "SculptBase",
       "tagline": "Retopo split parts into multires sculpt bases with joint guards",
-      "version": "0.2.0",
+      "version": "0.3.0",
       "type": "add-on",
       "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
       "license": [
@@ -122,9 +122,9 @@
         "Mesh",
         "Sculpt"
       ],
-      "archive_url": "./sculptbase-0.2.0.zip",
-      "archive_size": 11947,
-      "archive_hash": "sha256:f406148f812ddadf545b2e3f51deecb87aece2a85f88ac28e4be91cf62b19ce0"
+      "archive_url": "./sculptbase-0.3.0.zip",
+      "archive_size": 14983,
+      "archive_hash": "sha256:e7490b176633b6de3499664a3932ac120a77d4d361a355bc9158cf6d049d2708"
     }
   ]
 }
