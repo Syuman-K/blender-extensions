@@ -1,0 +1,130 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "auto_support_gen",
+      "name": "Auto Support Gen",
+      "tagline": "SLA Support Generator\u540c\u68b1\u306e\u5149\u9020\u5f62\u30d7\u30ea\u30f3\u30bf\u30fc\u7528\u30b5\u30dd\u30fc\u30c8\u751f\u6210\u30a2\u30c9\u30aa\u30f3",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "hiroki.sekimizu <hiroki.sekimizu@st-kai.jp>",
+      "license": [
+        "SPDX:GPL-3.0-or-later",
+        "SPDX:MIT"
+      ],
+      "blender_version_min": "5.0.0",
+      "copyright": [
+        "2026 hiroki.sekimizu",
+        "2026 morokko-at-gh"
+      ],
+      "tags": [
+        "Mesh",
+        "3D View",
+        "Object"
+      ],
+      "archive_url": "./auto_support_gen-1.0.0.zip",
+      "archive_size": 1608345,
+      "archive_hash": "sha256:97aa749fecf4fd4e885a09de88eeb773a9b6ecf99ab85897b67b3d1cff159931"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "evenmesh",
+      "name": "EvenMesh",
+      "tagline": "Adaptive remesh that unifies polygon density across the scene",
+      "version": "0.5.0",
+      "type": "add-on",
+      "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Mesh"
+      ],
+      "archive_url": "./evenmesh-0.5.0.zip",
+      "archive_size": 17511,
+      "archive_hash": "sha256:932e9e6aa963e3e445b84355863f5233fcade3dfa64375b9db25fe8bf5864891"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "hollowkit",
+      "name": "HollowKit",
+      "tagline": "Hollow meshes and drill drain holes for resin printing",
+      "version": "0.11.0",
+      "type": "add-on",
+      "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.0.0",
+      "tags": [
+        "Mesh",
+        "Geometry Nodes"
+      ],
+      "archive_url": "./hollowkit-0.11.0.zip",
+      "archive_size": 19872,
+      "archive_hash": "sha256:1bcdbe344606bd221fa2d1e4162558398992363b8e80ff4cdb2cce9130df73c5"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "partsplit",
+      "name": "PartSplit",
+      "tagline": "\u539f\u578b\u30e1\u30c3\u30b7\u30e5\u3092\u5207\u65ad\u9762\u3067\u5206\u5272\u3057\u30c0\u30dc\u3092\u81ea\u52d5\u751f\u6210",
+      "version": "2.7.0",
+      "type": "add-on",
+      "maintainer": "hiroki.sekimizu <hiroki.sekimizu@st-kai.jp>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Mesh",
+        "3D View"
+      ],
+      "archive_url": "./partsplit-2.7.0.zip",
+      "archive_size": 30086,
+      "archive_hash": "sha256:85bd99767086da8b3be411ce2df3729856f6b85468e35c7d2dca26fb078c5c8e"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "phaseporter",
+      "name": "PhasePorter",
+      "tagline": "Export selection into the next phase file of the GK pipeline",
+      "version": "0.3.0",
+      "type": "add-on",
+      "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Import-Export"
+      ],
+      "archive_url": "./phaseporter-0.3.0.zip",
+      "archive_size": 8124,
+      "archive_hash": "sha256:e84734c44b76b86e00828ef677614a263c70b807928d74632a4dfc3831eaa3a8"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "sculptbase",
+      "name": "SculptBase",
+      "tagline": "Retopo split parts into multires sculpt bases with joint guards",
+      "version": "0.2.0",
+      "type": "add-on",
+      "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Mesh",
+        "Sculpt"
+      ],
+      "archive_url": "./sculptbase-0.2.0.zip",
+      "archive_size": 11947,
+      "archive_hash": "sha256:f406148f812ddadf545b2e3f51deecb87aece2a85f88ac28e4be91cf62b19ce0"
+    }
+  ]
+}
