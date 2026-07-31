@@ -92,7 +92,7 @@
       "id": "phaseporter",
       "name": "PhasePorter",
       "tagline": "Export selection into the next phase file of the GK pipeline",
-      "version": "0.4.0",
+      "version": "0.5.0",
       "type": "add-on",
       "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
       "license": [
@@ -102,16 +102,16 @@
       "tags": [
         "Import-Export"
       ],
-      "archive_url": "./phaseporter-0.4.0.zip",
-      "archive_size": 12360,
-      "archive_hash": "sha256:11974c1528c7ee65b10bfd41c7c5e01aec737ae5eaf7ab0512aca9a80473182e"
+      "archive_url": "./phaseporter-0.5.0.zip",
+      "archive_size": 15817,
+      "archive_hash": "sha256:ffe65c06914581622f8b5560c1fca329dcdf16209586caeec2dd90bf6fecc244"
     },
     {
       "schema_version": "1.0.0",
       "id": "sculptbase",
       "name": "SculptBase",
       "tagline": "Retopo split parts into multires sculpt bases with joint guards",
-      "version": "0.7.0",
+      "version": "0.8.0",
       "type": "add-on",
       "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
       "license": [
@@ -122,9 +122,9 @@
         "Mesh",
         "Sculpt"
       ],
-      "archive_url": "./sculptbase-0.7.0.zip",
-      "archive_size": 20509,
-      "archive_hash": "sha256:23614b49bda9d761fc71e50afc7a2dfa563cfdb4ec84ef1479854d46d19c7447"
+      "archive_url": "./sculptbase-0.8.0.zip",
+      "archive_size": 20856,
+      "archive_hash": "sha256:0175c36c53f3676b727aec73205c26debe190d33356941e90792e72611d70b9b"
     }
   ]
 }
