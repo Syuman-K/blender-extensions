@@ -92,7 +92,7 @@
       "id": "phaseporter",
       "name": "PhasePorter",
       "tagline": "Export selection into the next phase file of the GK pipeline",
-      "version": "0.3.0",
+      "version": "0.4.0",
       "type": "add-on",
       "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
       "license": [
@@ -102,9 +102,9 @@
       "tags": [
         "Import-Export"
       ],
-      "archive_url": "./phaseporter-0.3.0.zip",
-      "archive_size": 8124,
-      "archive_hash": "sha256:e84734c44b76b86e00828ef677614a263c70b807928d74632a4dfc3831eaa3a8"
+      "archive_url": "./phaseporter-0.4.0.zip",
+      "archive_size": 12360,
+      "archive_hash": "sha256:11974c1528c7ee65b10bfd41c7c5e01aec737ae5eaf7ab0512aca9a80473182e"
     },
     {
       "schema_version": "1.0.0",
