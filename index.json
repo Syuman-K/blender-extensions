@@ -52,7 +52,7 @@
       "id": "hollowkit",
       "name": "HollowKit",
       "tagline": "Hollow meshes and drill drain holes for resin printing",
-      "version": "0.11.0",
+      "version": "0.12.0",
       "type": "add-on",
       "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
       "license": [
@@ -63,9 +63,9 @@
         "Mesh",
         "Geometry Nodes"
       ],
-      "archive_url": "./hollowkit-0.11.0.zip",
-      "archive_size": 19872,
-      "archive_hash": "sha256:1bcdbe344606bd221fa2d1e4162558398992363b8e80ff4cdb2cce9130df73c5"
+      "archive_url": "./hollowkit-0.12.0.zip",
+      "archive_size": 21464,
+      "archive_hash": "sha256:4956b3fcdd683b40bddaa6355b4528f18a7f41ea092b45926fa60516edb72af2"
     },
     {
       "schema_version": "1.0.0",
