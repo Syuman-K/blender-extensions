@@ -49,6 +49,26 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "garagekit_splitter",
+      "name": "GarageKit Splitter",
+      "tagline": "Split with planes/cutters, dowel, orient, support and raft",
+      "version": "0.3.0",
+      "type": "add-on",
+      "maintainer": "GarageKit <zhuwanchuanyuan@gmail.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "Mesh",
+        "Import-Export"
+      ],
+      "archive_url": "./garagekit_splitter-0.3.0.zip",
+      "archive_size": 28779,
+      "archive_hash": "sha256:e2f336ddf58ebd0493e5f01790383f7a0536162955f6df195bbdd13b37307e01"
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "hollowkit",
       "name": "HollowKit",
       "tagline": "Hollow meshes and drill drain holes for resin printing",

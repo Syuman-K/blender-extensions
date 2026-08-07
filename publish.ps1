@@ -18,7 +18,8 @@ $dev = Split-Path $root -Parent
 # 集約対象の開発リポジトリ(dist/ に blender extension build 済みZIPがあること)
 $sources = @(
     "evenmesh", "phaseporter", "sculptbase",
-    "hollowkit", "auto_support_gen", "partsplit"
+    "hollowkit", "auto_support_gen", "partsplit",
+    "garagekit_splitter"
 )
 
 function Find-Blender {
@@ -41,6 +42,10 @@ Get-ChildItem $root -Filter "*.zip" | Remove-Item -Force
 foreach ($name in $sources) {
     $repo = Join-Path $dev $name
     $manifest = Join-Path $repo "blender_manifest.toml"
+    if (-not (Test-Path $manifest)) {
+        # garagekit_splitter はパッケージが repo\<name>\<name>\ にある入れ子構成
+        $manifest = Join-Path $repo "$name\blender_manifest.toml"
+    }
     if (-not (Test-Path $manifest)) {
         Write-Warning "skip ${name}: blender_manifest.toml がない"
         continue
